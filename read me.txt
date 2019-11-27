@@ -1,0 +1,7 @@
+Right click "Grand Theft Auto V" on desktop and click "Properties"
+
+Click "Open File Location" 
+
+Drag and drop all the files from "menyoo (all)" into the file you just opened 
+                                                 (menyooStuff, dinput8.dll, Menyoo.asi, ScriptHookV.dll)
+
